@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello World 🌎, I'm susrevnI</h1>
-<h3 align="center">Um desenvolvedor indie Junior que adora games</h3>
+<h3 align="center">Um desenvolvedor Junior que adora games</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
